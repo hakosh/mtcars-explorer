@@ -1,4 +1,8 @@
 # mtcars explorer
 This is app is for making exploratory data analysis on the `mtcars` dataset.
-The user can set the values on the X and the Y axis. An optional regression line
-can be included to see the correlation between the two columns in the dataset.
+
+Change the value of the `X Axis` select input to change values on the x axis.
+
+The `Y Axis` select input works similarly.
+
+Check the `Regression line` labeled checkbox to include a regression line in the plot.
